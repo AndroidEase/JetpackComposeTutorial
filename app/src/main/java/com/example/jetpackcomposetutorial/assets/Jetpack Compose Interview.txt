@@ -1,0 +1,112 @@
+https://medium.com/@sujathamudadla1213/interview-questions-on-android-jetpack-compose-a9a28759ef11
+
+1. What is jetpack compose? And why it is introduced?
+   - Its UI toolkit introduced by google to build android apps.
+   - It simplify and enhance UI development process by providing declarative and reactive approach to build UIs
+
+2. Difference between View-based UI framework and Jetpack compose
+
+
+3. Advantage of using Jetpack Compose over traditional view system? 
+   It has declarative syntax  -> We can write UI element more concisely which leads to cleaner and maintanable code
+   Boiler Plate code -> UI components are defined kotlin directly, which reduce redundancy
+   Live Preview -> We can see UI changes instantly
+
+4. What are composable function in Jetpack compose?
+
+
+5. How state management work in jetpack compose?
+
+
+6. Role of Modifier in Jetpack Compose?
+   - Used to apply transformation to UI elements in jetpack compose
+   - We can apply properties such as size, padding, alignment, background color and more.
+   - It can be chained together to apply multiple transformation to single UI element.
+
+7. How navigation handled in Jetpack Compose?
+
+
+8. Explain the concept of recomposition in jetpack compose.
+
+
+9. How can you hanle user input and events in jetpack compose?
+
+
+10. Purpose of viewmodel in jetpack compose
+
+
+11. What are key components of Jetpack compose architecture?
+
+
+12. How do you perform animations in jetpack compose?
+
+
+13. What is purpose of Constraintlayout in jetpack compose?
+
+
+14. How you handle theming and styling in jetpack compose?
+
+
+15.Explain concept of side effcts in jetpack compose?
+
+
+16. How you handle asynchronouus operations in jetpack compose?
+
+
+17. What are compose key events, and how they used?
+
+
+18. How do you test UI components in jetpacl compose?
+
+
+19. What is the purpose of remember in Jetpack Compose, and how is it used?
+
+
+
+20. What is the role of StateFlow and SharedFlow in Jetpack Compose?
+
+
+
+21. How can you handle input validation in Jetpack Compose?
+
+
+
+
+22.Explain the concept of lazy composition in Jetpack Compose.
+
+
+
+
+23.  What are recomposition triggers, and how can you use them?
+
+
+
+
+24.  How can you handle keyboard input in Jetpack Compose?
+
+
+
+
+25. What is the role of CompositionLocal in Jetpack Compose?
+
+
+
+
+26. How do you handle orientation changes in Jetpack Compose?
+
+
+
+
+27. Explain the concept of accessibility support in Jetpack Compose.
+
+
+
+
+28. How can you integrate Jetpack Compose with data binding?
+
+
+
+
+
+29. What are the best practices for performance optimization in Jetpack Compose?
+

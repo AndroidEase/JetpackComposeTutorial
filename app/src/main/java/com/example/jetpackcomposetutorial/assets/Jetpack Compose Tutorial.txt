@@ -1,0 +1,11 @@
+With Jetpack Compose, we dont need
+
+XML, multiple activities
+Fragments, Data or View Binding
+
+-------------------------------------------------------
+
+There are two annotations  
+
+1. Preview - it enables preview
+2. Composable - It defines UI element, it is a compose function
